@@ -242,6 +242,13 @@ void loop() {
 <sup>Fonte: Material produzido pela equipe, 2025.</sup>
 </div>
 
+<div align="center">
+  <a href="https://drive.google.com/drive/folders/1nVI8vBpSVaPWIG039I8llvsmGIFWAjtf?hl=pt-br" target="_blank">
+     Acessar vídeos e fotos no Google Drive
+  </a>
+  <sup>Fonte: Material produzido pelo autor, 2025.</sup>
+</div>
+
 ---
 
 ## 6. Organização do repositório GitHub
